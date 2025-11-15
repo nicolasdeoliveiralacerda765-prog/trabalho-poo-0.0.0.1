@@ -41,4 +41,29 @@ v0.0.3 – MVP PRONTO
 - README final documentado
 - Tags de git adicionadas
 
+Sistema de Controle de Despesas – MVP
+
+Projeto desenvolvido para a disciplina de Programação Orientada a Objetos.
+
+Objetivo
+Sistema capaz de:
+- Registrar despesas
+- Registrar pagamentos
+- Listar despesas pagas/pendentes
+- Gerenciar tipos de despesas
+- Gerenciar usuários com senha criptografada
+- Armazenamento em arquivos `.txt`
+
+Arquitetura do Projeto
+
+Padrões de POO utilizados
+- Classes abstratas  
+- Herança  
+- Polimorfismo  
+- Interfaces  
+- Métodos estáticos  
+- Sobrecarga e sobrescrita  
+- Organização MVC (simplificado)
+
+Estrutura de pastas
 
