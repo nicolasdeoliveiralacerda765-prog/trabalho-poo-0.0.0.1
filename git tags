@@ -1,0 +1,4 @@
+git tag -a v0.0.1 -m "Primeiro commit - menu básico"
+git tag -a v0.0.2 -m "Arquitetura POC e MVP inicial"
+git tag -a v0.0.3 -m "MVP final documentado"
+git push origin --tags
