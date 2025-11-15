@@ -32,4 +32,13 @@ Main reorganizado para utilizar controllers
 
 Estruturado o MVP do sistema (ainda sem lógica real)
 
+v0.0.3 – MVP PRONTO
+- Cadastro real de despesas
+- Registro de pagamento
+- Listagem funcionando
+- Sistema de arquivos concluído
+- Usuários com senha criptografada
+- README final documentado
+- Tags de git adicionadas
+
 
